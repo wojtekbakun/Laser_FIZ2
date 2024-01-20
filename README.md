@@ -3,9 +3,11 @@ To repozytorium zawiera pliki potrzebne do zrealizowania urządzenia, które za 
 Projekt jest podzielony na dwie części: 
 
 - **BASIC**
+  
 Uproszczona wersja projektu potrafiąca jedynie przesłać za pomocą lasera jeden plik audio. Przygotowane są cztery polecenia, z których należy wybrać jedno, które będzie nadawane jednorazowo po włączeniu Arduino.
 
 - **PRO MEGA SUPER**
+  
 Ulepszona wersja części BASIC, rozszerzona o dodatkową pamięć oraz przyciski do wyboru odpowiedniej komendy.
 
 # Schemat urządzenia
